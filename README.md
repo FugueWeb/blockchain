@@ -2,7 +2,20 @@
 
 *Information pulled from status.im website*
 
+1. Truly private communication - Chat over a peer-to-peer, encrypted network where messages can't be censored or hacked
+2. Secure crypto wallet - Send and receive digital assets anywhere in the world - no bank account required
+3. Decentralized apps - Explore games, exchanges and social networks where you alone own your data
+
 Status is a secure messaging app, crypto wallet, and Web3 browser built with state of the art technology. Status uses an open-source, peer-to-peer protocol, and end-to-end encryption to protect your messages from third parties. No phone number, email address, or bank account required when creating your free Status Account. With its [Private Messenger](https://status.im/private-messenger/), Status removes centralized choke points from your messages for greater privacy and security. Levering a peer-to-peer network instead of centralized servers for the routing of messages, your communication is yours and yours alone. Using a decentralized `Web3` browser, explore the growing ecosystem of DApps including marketplaces, exchanges, games and social networks. Latest security standards ensure a private browsing experience. Status is both free (libre) open source software reviewable by anyone as well as free (no cost) to install.
+
+## Quick Start
+
+1. [Download](https://status.im/get/) the app for Android, iOS, or as a desktop application
+2. Open the app and click `Get Started`. You can either generate a new key or use an existing one. [Learn more](https://ethereum.org/en/glossary/#private-key) about this.
+3. If you generate a new private key, you'll first choose a public chat name that is a human friendly set of three random words corresponding to a new Ethereum address.
+4. The password you set is used for signing transactions. It's not related to anything stored on the blockchain, it's protection just in case, for example, someone else had your phone and tried to do something in the app like send a transaction from your account.
+5. Now that you're in, it is recommended the first thing you do is *back up your seed phrase*. Click `Profile` -> `Privacy and Security` -> `Back up seed phrase` and write down the 12 words you see then follow the prompts. If you lose these words, and you then lost/wiped your phone or uninstalled Status, there is no way to recover your account.
+6. Want to chat? Start a new chat and enter the ENS name `fugue.stateofus.eth` and ask to join one of our private groups.
 
 ## Status References
 
@@ -30,3 +43,4 @@ Status is a secure messaging app, crypto wallet, and Web3 browser built with sta
 * [DEVCON1: Shh! Whisper - Gavin Wood - video](https://www.youtube.com/watch?v=U_nPoBVLPiw)
 * [How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile](https://www.youtube.com/watch?v=DXv1boalsDI)
 * [Keycard - Secure, Contactless, Hardware Wallet & Open API](https://keycard.tech/)
+* [Ethereum Name Service (ENS)](https://ens.domains/)
